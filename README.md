@@ -1,12 +1,12 @@
 mixi API SDK for Android Sample Codes
 ===============
 
-[mixi API SDK for Android](http://developer.mixi.co.jp/connect/mixi_graph_api/android/) ¤òÍøÍÑ¤¹¤ë¤¿¤á¤Î¥µ¥ó¥×¥ë¥³¡¼¥É¤Ç¤¹¡£
+[mixi API SDK for Android](http://developer.mixi.co.jp/connect/mixi_graph_api/android/) ã‚’åˆ©ç”¨ã™ã‚‹ãŸã‚ã®ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã§ã™ã€‚
 
-SDK ¤Î¥À¥¦¥ó¥í¡¼¥É¡¢ API ¤òÍøÍÑ¤¹¤ë¤¿¤á¤Î Consumer Key ¤Î¼èÆÀ¡¢¤ª¤è¤Ó¡¢¥¢¥×¥ê¥±¡¼¥·¥ç¥ó¤Î¥Ó¥ë¥É¼ê½ç¤Ë¤Ä¤¤¤Æ¤Ï¡¢¾åµ­¥ê¥ó¥¯Àè¤ò¤´»²¾È¤¯¤À¤µ¤¤¡£
+SDK ã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã€ API ã‚’åˆ©ç”¨ã™ã‚‹ãŸã‚ã® Consumer Key ã®å–å¾—ã€ãŠã‚ˆã³ã€ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã®ãƒ“ãƒ«ãƒ‰æ‰‹é †ã«ã¤ã„ã¦ã¯ã€ä¸Šè¨˜ãƒªãƒ³ã‚¯å…ˆã‚’ã”å‚ç…§ãã ã•ã„ã€‚
 
 voice
 ---------------
-¤³¤Î¥µ¥ó¥×¥ë¤Ç¤Ï¡¢ mixi API SDK for Android ¤Î½é´ü²½½èÍı¡¢¥í¥°¥¤¥ó¡¢¤Ä¤Ö¤ä¤­¤Î°ìÍ÷¼èÆÀ¤ÈÅê¹Æ¤ò¹Ô¤¤¤Ş¤¹¡£
-mixi Graph API ¤Î [People API](http://developer.mixi.co.jp/connect/mixi_graph_api/mixi_io_spec_top/people-api/) ¤È [Voice API](http://developer.mixi.co.jp/connect/mixi_graph_api/mixi_io_spec_top/voice-api/) ¤ò»ÈÍÑ¤·¤Æ¤¤¤Ş¤¹¡£
+ã“ã®ã‚µãƒ³ãƒ—ãƒ«ã§ã¯ã€ mixi API SDK for Android ã®åˆæœŸåŒ–å‡¦ç†ã€ãƒ­ã‚°ã‚¤ãƒ³ã€ã¤ã¶ã‚„ãã®ä¸€è¦§å–å¾—ã¨æŠ•ç¨¿ã‚’è¡Œã„ã¾ã™ã€‚
+mixi Graph API ã® [People API](http://developer.mixi.co.jp/connect/mixi_graph_api/mixi_io_spec_top/people-api/) ã¨ [Voice API](http://developer.mixi.co.jp/connect/mixi_graph_api/mixi_io_spec_top/voice-api/) ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
